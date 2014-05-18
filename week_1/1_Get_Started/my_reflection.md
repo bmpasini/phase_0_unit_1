@@ -16,6 +16,6 @@ Github in the other hand, is a social plataform where you can store your gits an
 3) Git is a type of a Version Control technology. There are many and Git is just one of them. Their main purpose are the same with few specific differences that makes each one of them good for different purposes. GitHub helps to store a version control in a place that can be reached by anyone you want.
 
 4) Developers use version control to keep track of their work as a group, or individually. Another great feature is that you can recover some information deleted/changed by mistake.
-It makes sense because it is a great tool for developers to work together in a same coding file at the same time without having to worry about affecting each others work.
+It makes sense because it is a great tool for developers to work together in the same file at the same time without having to worry about affecting each others work.
 
 5) Everything makes a lot of sense. It is a great tool.
