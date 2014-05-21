@@ -10,15 +10,15 @@ a:hover {color:#FF00FF;} /* mouse over link */
 a:active {color:#0000FF;} /* selected link */
 
 #content_area {
+	float: left;
 	border: 2px solid #000000;
 	padding: 10px;
 	margin: auto;
 	width: 200px;
-	height: 200px
+	height: 100px
 }
 #sidebar {
-	position: absolute;
-	right: -100px;
+	float: right;
 	border: 1px dotted #000000;
 }
 #footer {
@@ -29,6 +29,10 @@ a:active {color:#0000FF;} /* selected link */
 #other_site {
 	font-size: 8px;
 	font-family: Arial;
+}
+#image {
+	position: absolute;
+	bottom: -30px;
 }
 #caption {
 	position: :relative;
