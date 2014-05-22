@@ -22,6 +22,7 @@ a:active {color: #9932CC;} /* selected link */
 	float: right;
 	margin: 0% 3%;
 	width: 70%;
+	border: 1px solid #800000;
 }
 #links p{
 	float: right;
@@ -30,7 +31,6 @@ a:active {color: #9932CC;} /* selected link */
 	margin: 0% 2%;
 	text-align: center;
 	font-size: 14px;
-	border: 1px dashed #778899;
 }
 #content {
 	float:left;
@@ -41,19 +41,21 @@ a:active {color: #9932CC;} /* selected link */
 	width: 50%;
 	background-color: white;
 	color: #800000;
-	border: 2px solid #800000F;
+	border: 2px solid #800000;
 	display:block;
-	opacity: 0.3;
+	opacity: 0.5;
 }
 #sidebar {
 	float: left;
 	font-size: 11px;
-	margin: 1% 1%;
+	margin: 0.5% 1% 1% 1%;
 	padding: 1%;
-	width: 10%;
+	width: 8%;
 	height: 12%;
 	border: 1px dotted #800000;
 	display:block;
+	background-color: white;
+	opacity: 0.5;
 }
 #footer {
 	text-align: center;
