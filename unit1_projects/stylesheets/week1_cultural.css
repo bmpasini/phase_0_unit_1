@@ -11,10 +11,7 @@ body {
 	font-size: 12px;
 	width:100%;
 	background-image: url("../images/beach2.jpg") no-repeat fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    background-size: auto;
 	background-attachment: fixed;
 	overflow: auto;
 }
