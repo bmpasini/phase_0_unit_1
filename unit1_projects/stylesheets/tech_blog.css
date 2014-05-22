@@ -65,20 +65,13 @@ a:active {color: #9932CC;} /* selected link */
 #sidebar p{
 	float: left;
 	font-size: 11px;
-	margin: 0% 1% 2% 1%;
-	border: 1px dotted #800000;
-	display:block;
 	background-color: white;
 }
 #sidebar li{
 	float: left;
 	font-size: 11px;
 	margin: 0% 1% 2% 1%;
-	border: 1px dotted #800000;
-	display:block;
-	background-color: white;
 }
-
 #footer {
 	text-align: center;
 	font-size: 9px;
