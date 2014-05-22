@@ -1,3 +1,11 @@
+/*Based on the video, what's your take on the DBC experience? What is your impression of DBC?
+How do you see yourself engaging with this type of culture? Have your expectations of DBC changed?
+If so, how? Are you excited to participate in this kind of learning environment?
+Does it make you nervous?
+
+Talk about what came up for you and anything you want in addition to the questions above.
+*/
+
 body {
 	font-family: Calibri, Sans-Serif;
 	font-size: 12px;
@@ -40,7 +48,7 @@ a:active {color: #9932CC;} /* selected link */
 
 }
 #content {
-	float:left;
+	float: left;
 	clear: left;
 	text-align: center;
 	margin: 5% 25% 0% 25%;
@@ -51,6 +59,9 @@ a:active {color: #9932CC;} /* selected link */
 	border: 2px solid #800000;
 	display:block;
 	opacity: 0.5;
+}
+#content p{
+
 }
 #sidebar {
 	float: left;
