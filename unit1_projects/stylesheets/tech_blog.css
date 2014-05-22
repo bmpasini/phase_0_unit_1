@@ -10,7 +10,7 @@ body {
 	float: left;
 	color: #089499;
 	margin-left: 2%;
-	margin-top: 2%;
+	margin-top: 0;
 	width: 30%;
 	height: auto;
 }
@@ -27,15 +27,15 @@ a:active {color: #9932CC;} /* selected link */
 	float: right;
 	width: 10%;
 	padding: 1%;
-	margin: 1% 2%;
+	margin: 0% 2%;
 	text-align: center;
 	font-size: 14px;
 	border: 1px dashed #778899;
 }
 #content {
 	text-align: center;
-	margin: 4% 3%;
-	padding: 2%;
+	margin: 0% 30%;
+	padding: 1%;
 	width:50%;
 	color: #2F4F4F;
 	border: 2px solid #2F4F4F;
