@@ -20,7 +20,7 @@ a:hover {color: #00FF7F;} /* mouse over link */
 a:active {color: #9932CC;} /* selected link */
 #links {
 	float: right;
-	margin: 30% 3% 0% 3%;
+	margin: 0% 3%;
 	width: 70%;
 }
 #links p{
@@ -34,9 +34,9 @@ a:active {color: #9932CC;} /* selected link */
 }
 #content {
 	text-align: center;
-	margin: 0% 30%;
+	margin: 30% 3% 0% 3%;
 	padding: 1%;
-	width:50%;
+	width: 50%;
 	color: #2F4F4F;
 	border: 2px solid #2F4F4F;
 	padding: 10px;
