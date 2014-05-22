@@ -12,7 +12,7 @@ a:active {color:#0000FF;} /* selected link */
 	float:center;
 }
 #content_area {
-	color: black;
+	color: center;
 	float: left;
 	border: 2px solid #000000;
 	padding: 10px;
