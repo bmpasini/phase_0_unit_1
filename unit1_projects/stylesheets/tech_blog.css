@@ -33,14 +33,29 @@ a:active {color: #9932CC;} /* selected link */
 	border: 1px dashed #778899;
 }
 #content {
-	text-align: center;
-	margin: 10%;
+	float:left;
+	margin:0% 25%;
+	clear:left;
+	color: #FFF520;
+	background-color:#089499;
+	font-weight:bold;
+	font-size:13px;
+	padding:1%;
+	width:50%;
+	display:block;
+	border-style:solid;
+	border-width:medium;
+	border-color:#FFF520;
+
+
+/*	text-align: center;
+	margin: 25%;
 	padding: 1%;
 	width: 50%;
 	color: #2F4F4F;
 	border: 2px solid #2F4F4F;
 	display:block;
-	background-color: white;
+	background-color: transparent; */
 }
 #sidebar {
 	float: left;
