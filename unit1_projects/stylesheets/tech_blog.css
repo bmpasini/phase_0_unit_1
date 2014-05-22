@@ -1,0 +1,66 @@
+body {
+	font-family: Calibri, Sans-Serif;
+	font-size: 12px;
+	width:100%;
+	background-image: url("../images/beach.jpg");
+	background-attachment: fixed;
+	overflow: auto;
+}
+#header {
+	float: left;
+	color: #089499;
+	margin-left: 2%;
+	margin-top: 2%;
+	width: 30%;
+	height: auto;
+}
+a:link {color: #00008B;} /* unvisited link */
+a:visited {color: #DC143C;} /* visited link */
+a:hover {color: #00FF7F;} /* mouse over link */
+a:active {color: #9932CC;} /* selected link */
+#links {
+	float: right;
+	margin: 4% 3%;
+	width: 70%;
+}
+#links p{
+	float: right;
+	width: 10%;
+	padding: 1%;
+	margin: 1% 2%;
+	text-align: center;
+	font-size: 14px;
+	border: 1px dashed #778899;
+}
+#content {
+	text-align: center;
+	margin: 4% 3%;
+	padding: 2%;
+	width:50%;
+	color: #2F4F4F;
+	border: 2px solid #2F4F4F;
+	padding: 10px;
+	display:block;
+}
+#sidebar {
+	float: left;
+	font-size: 11px;
+	margin: 1% 1%;
+	width: 15%;
+	height: 20%;
+	border: 1px dotted #000000;
+	display:block;
+}
+#footer {
+	text-align: center;
+	font-size: 9px;
+	color: #20B2AA;
+	position: absolute;
+	bottom: 5%;
+	left: 40%;
+}
+#image {
+	position: absolute;
+	bottom: 80px;
+	left: 520px;
+}
