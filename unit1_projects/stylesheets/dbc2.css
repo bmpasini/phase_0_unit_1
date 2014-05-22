@@ -12,8 +12,8 @@ a:active {color:#0000FF;} /* selected link */
 	float:center;
 }
 #content_area {
-	color: center;
-	float: left;
+	color: black;
+	float: center;
 	border: 2px solid #000000;
 	padding: 10px;
 	margin: auto;
