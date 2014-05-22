@@ -9,10 +9,10 @@ a:visited {color:#00FF00;} /* visited link */
 a:hover {color:#FF00FF;} /* mouse over link */
 a:active {color:#0000FF;} /* selected link */
 #header {
-	float:center;
+	text-align:center;
 }
 #content_area {
-	float: left;
+	text-align: center;
 	border: 2px solid #000000;
 	padding: 10px;
 	margin: auto;
@@ -25,13 +25,13 @@ a:active {color:#0000FF;} /* selected link */
 	height: 120px
 }
 #footer {
-	float:center;
+	text-align:center;
 	position: absolute;
 	bottom: -20px;
 	border: 1px solid #000000;
 }
 #other_site {
-	float:center;
+	text-align:center;
 	font-size: 8px;
 	font-family: Arial;
 }
@@ -41,7 +41,7 @@ a:active {color:#0000FF;} /* selected link */
 	left: 350px;
 }
 #caption {
-	float:center;
+	text-align:center;
 	position: :absolute;
 	bottom: -65px;
 }
