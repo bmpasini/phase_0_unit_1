@@ -49,7 +49,6 @@ a:active {color: #9932CC;} /* selected link */
 }
 #content {
 	float: left;
-	clear: left;
 	text-align: center;
 	margin: 5% 25% 0% 25%;
 	padding: 1%;
