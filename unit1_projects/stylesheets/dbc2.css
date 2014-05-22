@@ -30,6 +30,7 @@ a:active {color:#0000FF;} /* selected link */
 	color: gray;
 	position: absolute;
 	bottom: 20px;
+	left: 550px;
 	border: 1px solid #000000;
 	height: 40px;
 	width: 60px;
@@ -41,7 +42,7 @@ a:active {color:#0000FF;} /* selected link */
 }
 #image {
 	position: absolute;
-	bottom: 100px;
+	bottom: 50px;
 	left: 550px;
 }
 #caption {
