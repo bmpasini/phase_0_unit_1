@@ -26,19 +26,23 @@ a:active {color:#0000FF;} /* selected link */
 	height: 120px
 }
 #footer {
+	float:center;
 	position: absolute;
 	bottom: -20px;
 	border: 1px solid #000000;
 }
 #other_site {
+	float:center;
 	font-size: 8px;
 	font-family: Arial;
 }
 #image {
+	float:center;
 	position: absolute;
 	bottom: -30px;
 }
 #caption {
-	position: :relative;
+	float:center;
+	position: :absolute;
 	bottom: -65px;
 }
