@@ -57,7 +57,7 @@ a:active {color: #9932CC;} /* selected link */
 	margin: 0% 1% 2% 1%;
 	width: 7.5%;
 	height: 12%;
-	border: 1px dotted #800000;
+	border: 1px solid #800000;
 	display:block;
 	background-color: white;
 	opacity: 0.5;
@@ -65,12 +65,11 @@ a:active {color: #9932CC;} /* selected link */
 #sidebar p{
 	float: left;
 	font-size: 11px;
-	background-color: white;
+	margin: 0% 1% 2% 1%;
 }
 #sidebar li{
 	float: left;
 	font-size: 11px;
-	margin: 0% 1% 2% 1%;
 }
 #footer {
 	text-align: center;
