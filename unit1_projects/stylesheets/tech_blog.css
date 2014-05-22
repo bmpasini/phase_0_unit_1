@@ -43,7 +43,7 @@ a:active {color: #9932CC;} /* selected link */
 	color: #800000;
 	border: 2px solid #800000F;
 	display:block;
-	opacity: 50%;
+	opacity: 10%;
 }
 #sidebar {
 	float: left;
@@ -61,7 +61,7 @@ a:active {color: #9932CC;} /* selected link */
 	color: #20B2AA;
 	position: absolute;
 	bottom: 5%;
-	left: 40%;
+	left: 48%;
 }
 #image {
 	position: absolute;
