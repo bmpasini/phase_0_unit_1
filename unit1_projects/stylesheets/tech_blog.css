@@ -55,8 +55,8 @@ a:active {color: #9932CC;} /* selected link */
 #sidebar {
 	float: left;
 	margin: 0% 1% 2% 1%;
-	width: 7.5%;
-	height: 12%;
+	width: 8%;
+	height: 9%;
 	border: 1px solid #800000;
 	display:block;
 	background-color: white;
@@ -65,7 +65,7 @@ a:active {color: #9932CC;} /* selected link */
 #sidebar p{
 	float: left;
 	font-size: 11px;
-	margin: 0% 1% 2% 1%;
+	margin: 0.5% 2.5% 2% 1%;
 }
 #sidebar li{
 	float: left;
