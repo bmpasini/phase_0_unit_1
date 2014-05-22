@@ -67,7 +67,7 @@ a:active {color: #9932CC;} /* selected link */
 	font-size: 11px;
 	margin: 0.5% 2.5% 2.5% 0.5%;
 }
-#sidebar li{
+#sidebar ul{
 	font-size: 11px;
 }
 #footer {
