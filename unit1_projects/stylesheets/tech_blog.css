@@ -39,8 +39,8 @@ a:active {color: #9932CC;} /* selected link */
 	margin: 2% 25% 0% 25%;
 	padding: 1%;
 	width: 50%;
-	color: #800000;
 	background-color: black;
+	color: #800000;
 	border: 2px solid #800000F;
 	display:block;
 	background-color: transparent;
@@ -53,7 +53,6 @@ a:active {color: #9932CC;} /* selected link */
 	width: 10%;
 	height: 12%;
 	border: 1px dotted #800000;
-	background-color: black;
 	display:block;
 }
 #footer {
