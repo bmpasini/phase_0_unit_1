@@ -79,6 +79,7 @@ a:active {color: #9932CC;} /* selected link */
 	margin: 0.5% 2.5% 2.5% 0.5%;
 }
 #sidebar ul{
+	float: left;
 	font-size: 11px;
 }
 #footer {
