@@ -1,5 +1,6 @@
 #### Include an inline screenshot of your codeschool's points from the profile page:
 
+https://github.com/bmpasini/phase_0_unit_1/blob/master/week_2/1_Chrome_Dev_Tools/imgs/codeschool_points.tiff
 https://www.codeschool.com/users/bmpasini (12,000 points)
 <!-- Modify the Markdown to include your answers. Don't delete the questions! -->
 
@@ -26,9 +27,9 @@ https://www.codeschool.com/users/bmpasini (12,000 points)
   * Roll over the navigation links.  When you hover over them, they disappear.  Let's change the hover color to black instead.
   --> Done.
   * Now take a screenshot of your new (and maybe not so improved) design.  It should match this screenshot: http://postimg.org/image/5ak1jkpl5/
-  --> 
+  --> https://github.com/bmpasini/phase_0_unit_1/blob/master/week_2/1_Chrome_Dev_Tools/imgs/postmachina.png
   * Upload your own image to the imgs directory in the `1_Chrome_Dev_Tools` directory.  It should match the image above. The last nav link in the image above is black because the mouse was hovering there when the screenshot was taken. Do the same, and don't take a screenshot of your whole desktop, just the browser window. (This is part of the challenge.)
-  --> 
+  --> Done.
 * For the postmachina website, why can't you tweak the color of the text "The most important things are not things"?  Please explain.
  --> Because it is a .gif image and it is not possible modify the color of a text inside an image using CSS.
   
