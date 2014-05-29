@@ -12,7 +12,7 @@ Does the site sell anything? If so, have you purchased any of it? Why or why not
 /*Identify three of your favorite websites.
 Write a blog post analyzing the 3 sites in terms of user experience and design. 
 */
-@media screen and (min-width: 600px)
+@media screen and (min-width: 900px)
 {
 	body {
 		font-family: Calibri, Sans-Serif;
@@ -44,7 +44,7 @@ Write a blog post analyzing the 3 sites in terms of user experience and design.
 	#links p{
 		float: right;
 		width: 10%;
-		padding: 1%;
+		padding: 0.5%;
 		margin: 0% 2%;
 		text-align: center;
 		border: 1px solid #800000;
@@ -102,12 +102,12 @@ Write a blog post analyzing the 3 sites in terms of user experience and design.
 		left: 520px;
 	}
 }
-@media screen and (max-width: 600px)
+@media screen and (max-width: 900px)
 {
 	body {
 		font-family: Calibri, Sans-Serif;
 		font-size: 12px;
-		width: 1em;
+		width: 75em;
 		background-image: url("../images/beach.jpg");
 		background-attachment: fixed;
 		overflow: auto;
@@ -117,7 +117,7 @@ Write a blog post analyzing the 3 sites in terms of user experience and design.
 		color: #800000;
 		margin-left: 2px;
 		margin-top: 0;
-		width: 0.3em;
+		width: 20em;
 		height: auto;
 		display:block;
 		font-weight:bold;
@@ -128,14 +128,14 @@ Write a blog post analyzing the 3 sites in terms of user experience and design.
 	a:active {color: #9932CC;} /* selected link */
 	#links {
 		float: right;
-		margin: 0 0.3em;
-		width: 0.7em;
+		margin: 1em 10em;
+		width: 10em;
 	}
 	#links p{
 		float: right;
-		width: 0.1em;
+		width: 8em;
 		padding: 1px;
-		margin: 0 2px;
+		margin: 0 1em;
 		text-align: center;
 		border: 1px solid #800000;
 		font-size: 14px;
