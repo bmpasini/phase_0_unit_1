@@ -175,7 +175,7 @@ nav
 #link6
 {
 	float: left;
-	height: calc(7.5%/0.26/0.69 - 2*0.5em - 2*1px;
+	height: calc(7.5%/0.26/0.69 - 2*0.5em - 2*1px);
 	width: calc(10%/.23 - 2*0.5em - 2*1px);
 	margin: 0;
 	padding: 0.5em;
