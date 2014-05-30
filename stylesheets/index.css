@@ -1,6 +1,6 @@
 html, body {
 	font-family: 'Josefin Sans', sans-serif;
-	font-size: 24x;
+	font-size: 24px;
 	height: 100%;
 	width: 100%;
 	background-image: url("../unit1_projects/images/awesome.jpg");
@@ -8,7 +8,7 @@ html, body {
 	background-attachment: fixed; /* The background is fixed with regard to the viewport */
 	overflow: auto; /* If overflow is clipped, a scroll-bar should be added to see the rest of the content */
 }
-body
+nav
 {
 	display: inline-block;
 }
@@ -39,7 +39,7 @@ header {
 	font-weight: italic;
 	text-align: center;
 }
-nav
+#main
 {
 	width: 37.143%;
 	height: 69%;
