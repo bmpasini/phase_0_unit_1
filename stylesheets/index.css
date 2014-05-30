@@ -3,9 +3,9 @@ html, body {
 	font-size: 16px;
 	height: 100%;
 	width: 100%;
-	margin:0;
+	margin: 0;
+	padding: 0;
 	border: 0;
-	padding:0;
 	background-image: url("../unit1_projects/images/awesome.jpg");
 	background-size: 100%;
 	background-attachment: fixed; /* The background is fixed with regard to the viewport */
@@ -36,8 +36,8 @@ nav
 #left_sidebar
 {
 	float: left;
-	height: calc(100% - 1px - 1em); /* Defines the height in percent of the containing block	 */
-	width: calc(14.857%/0.9 - 1px - 1em); /* Defines the width in percent of the containing block */
+	height: calc(100% - 2*1px - 2*1em); /* Defines the height in percent of the containing block	 */
+	width: calc(14.857%/0.9 - 2*1px - 2*1em); /* Defines the width in percent of the containing block */
 	padding: 1em;
 	border: 1px dotted #00FF00;
 	border-radius: 10px;
