@@ -5,8 +5,12 @@ html, body {
 	width: 100%;
 	background-image: url("../unit1_projects/images/awesome.jpg");
 	background-size: 100%;
-	background-attachment: fixed;
-	overflow: auto;
+	background-attachment: fixed; /* The background is fixed with regard to the viewport */
+	overflow: auto; /* If overflow is clipped, a scroll-bar should be added to see the rest of the content */
+}
+body
+{
+	display: inline-block;
 }
 header {
 	width: 90%;
