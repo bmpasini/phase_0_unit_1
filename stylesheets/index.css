@@ -8,13 +8,9 @@ html, body {
 	background-attachment: fixed; /* The background is fixed with regard to the viewport */
 	overflow: auto; /* If overflow is clipped, a scroll-bar should be added to see the rest of the content */
 }
-nav
-{
-	display: inline-block;
-}
 header {
-	width: 90%;
 	height: 15%;
+	width: 90%;
 	padding: 0;
 	border: 0;
 	margin: 3% 5%;
@@ -25,11 +21,20 @@ header {
 	justify-content: center; /* align horizontal */
 	align-items: center; /* align vertical */
 }
+nav
+{
+	height: 69%;
+	width: 90%;
+	padding: 0;
+	border: 0;
+	margin: 0;
+	display: inline-block;
+}
 #sidebar
 {
 	font-size: 16px;
-	width: 14.857%;
 	height: 69%;
+	width: 14.857%;
 	margin: 0;
 	border: 1px;
 	border-radius: 10px;
@@ -41,8 +46,8 @@ header {
 }
 #main
 {
-	width: 37.143%;
 	height: 69%;
+	width: 37.143%;
 	margin: 0 5%;
 	border: 1px;
 	border-color: #00FF00;
@@ -52,16 +57,16 @@ header {
 }
 .c_links
 {
-	width: 23%;
 	height: 29%;
+	width: 23%;
 	margin: 0 5%;
 	border: 0;
 	padding: 0;
 }
 #link1
 {
-	width: 10%;
 	height: 7.5%;
+	width: 10%;
 	margin: 0 3% 0 0;
 	border: 1px;
 	border-radius: 5px;
@@ -74,8 +79,8 @@ header {
 }
 #link2
 {
-	width: 10%;
 	height: 7.5%;
+	width: 10%;
 	margin: 0;
 	border: 1px;
 	border-radius: 5px;
@@ -88,8 +93,8 @@ header {
 }
 #link3
 {
-	width: 10%;
 	height: 7.5%;
+	width: 10%;
 	margin: 1.75% 3% 1.75% 0;
 	border: 1px;
 	border-radius: 5px;
@@ -102,8 +107,8 @@ header {
 }
 #link4
 {
-	width: 10%;
 	height: 7.5%;
+	width: 10%;
 	margin: 1.75% 0 1.75% 0;
 	border: 1px;
 	border-radius: 5px;
@@ -116,8 +121,8 @@ header {
 }
 #link5
 {
-	width: 10%;
 	height: 7.5%;
+	width: 10%;
 	margin: 0 3% 0 0;
 	border: 1px;
 	border-radius: 5px;
@@ -130,8 +135,8 @@ header {
 }
 #link6
 {
-	width: 10%;
 	height: 7.5%;
+	width: 10%;
 	margin: 0;
 	border: 1px;
 	border-radius: 5px;
@@ -144,16 +149,16 @@ header {
 }
 #c_ideas
 {
-	width: 23%;
 	height: 40%;
+	width: 23%;
 	margin: 3% 5% 0 0;
 	border: 0;
 	padding: 0;
 }
 #budda
 {
-	width: 23%;
 	height: 24%;
+	width: 23%;
 	margin: 0 5% 4% 0;
 	border: 0;
 	padding: 0;
@@ -161,8 +166,8 @@ header {
 }
 .notes
 {
-	width: 23%;
 	height: 12%;
+	width: 23%;
 	margin: 0;
 	border: 1px;
 	padding: 1em 1em;
@@ -175,8 +180,8 @@ header {
 }
 footer
 {
-	width: 0%;
 	height: 10%;
+	width: 0%;
 	margin: 0;
 	border: 0;
 	padding: 0;
