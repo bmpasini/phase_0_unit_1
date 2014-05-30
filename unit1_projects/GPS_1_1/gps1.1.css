@@ -1,0 +1,77 @@
+/* include your css here */
+body{
+	font-family: Helvetica;
+	background-color: #000; 
+	color: white; 
+	display: inline;
+}
+header{
+	font-weight: bold; 
+	font-size: 300%; 
+	text-align: center;
+}
+article{
+	border: 2px solid #9AFE2E;
+}
+article#intro{
+	width: 83%; 
+	background-color:grey; 
+	margin-left: 5%; 
+	margin-right: 5%; 
+	margin-top: 2%; 
+	padding: 1%;  
+	border-radius: 15px; 
+	text-align: center;
+}
+article#conclusion{
+	width: 35%; 
+	background-color:grey; 
+	margin-left: 30%; 
+	margin-right:5%; 
+	margin-top: 21%;
+	margin-bottom: 2%; 
+	border-radius: 15px; 
+	text-align: center;
+}
+section#nav-driver{
+	margin-top: 2%;
+}
+section#container{
+	margin-top: 2%;
+}
+article.header{
+	width: 40%; 
+	background-color:grey; 
+	margin-left: 5%; 
+	border-radius: 15px; 
+	display: inline-block;
+}
+article.content-left{
+	float: left; 
+	margin-left: 5%; 
+	background-image:url('./notepaper.jpg'); 
+	width: 40%; 
+	height: 13.666em; 
+	border-radius: 15px;
+}
+article.content-right{
+	float: left; 
+	margin-left: 5%; 
+	background-image:url('./notepaper.jpg'); 
+	width: 40%; 
+	height: 13.666em;  
+	border-radius: 15px;
+}
+h2{
+	text-align: center;
+}
+li.roles{
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 18px;
+	margin-top: -10px;
+	padding-bottom: 3%;
+	color: black;
+}
+article:hover{
+	color: #9AFE2E;
+}
