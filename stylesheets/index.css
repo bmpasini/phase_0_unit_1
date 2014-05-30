@@ -77,11 +77,12 @@ nav
 }
 .c_links
 {
-	height: 29%;
-	width: 23%;
-	margin: 0 5%;
-	border: 0;
+	height: calc(26%/0.69);
+	width: 100%;
+	margin: 0;
 	padding: 0;
+	border: 0;
+	z-index: 2;
 }
 #link1
 {
