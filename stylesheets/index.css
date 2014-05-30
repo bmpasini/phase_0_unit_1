@@ -203,17 +203,21 @@ nav
 .notes
 {
 	float: left;
-	height: calc(12%/.69 - 2*1em - 2*1px);
-	width: 100%;
+	height: calc(12%/.69 - 2*0.5em - 2*1px);
+	width: calc(100% - 2*0.5em - 2*1px);
 	margin: 0;
 	border: 1px;
-	padding: 1em;
+	padding: 0.5em;
 	z-index: 3;
 	background-color: gray;
 	opacity: 0.75;
 	color: black;
+	font-size: small;
 	font-weight: italic;
-	text-align: center;
+}
+.notes li
+{
+
 }
 footer
 {
@@ -223,6 +227,8 @@ footer
 	border: 0;
 	padding: 0;
 	color: #00FF00;
-	font-weight: normal;
-	text-align: center;
-}
+	font-size: smaller;
+	font-weight: lighter;
+	display: flex; /* Displays an element as an block-level flex container. New in CSS3	*/
+	justify-content: center; /* align horizontal */
+	align-items: center; /* align vertical */
