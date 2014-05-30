@@ -32,13 +32,14 @@ nav
 }
 #sidebar
 {
-	font-size: small;
-	height: calc(69% - 1px - 1em);
-	width: calc(14.857% - 1px - 1em);
+	float: left;
+	height: calc(100% - 1px - 1em); /* Defines the height in percent of the containing block	 */
+	width: calc(14.857%/0.9 - 1px - 1em); /* Defines the width in percent of the containing block */
 	padding: 1em;
 	border: 1px dotted #00FF00;
 	border-radius: 10px;
 	margin: 0;
+	font-size: small;
 	color: #00FF00;
 	font-weight: lighter;
 	text-align: center;
