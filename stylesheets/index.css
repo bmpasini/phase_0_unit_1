@@ -189,7 +189,7 @@ nav
 	justify-content: center;
 	align-items: center;
 }
-#budda
+#buddha
 {
 	float: left;
 	height: calc(24%/.69);
@@ -197,7 +197,7 @@ nav
 	margin: calc(337/1264*3%/0.69) 0 calc(337/1264*4%/0.69) 0;
 	border: 0;
 	padding: 0;
-	z-index: 2;
+	z-index: 3;
 }
 .notes
 {
