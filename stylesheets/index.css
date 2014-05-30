@@ -32,16 +32,15 @@ nav
 }
 #sidebar
 {
-	font-size: 16px;
-	height: 69%;
-	width: 14.857%;
-	margin: 0;
-	border: 1px;
+	font-size: small;
+	height: calc(69% - 1px - 1em);
+	width: calc(14.857% - 1px - 1em);
+	padding: 1em;
+	border: 1px dotted #00FF00;
 	border-radius: 10px;
-	padding: 3em;
-	border-color: #00FF00;
+	margin: 0;
 	color: #00FF00;
-	font-weight: italic;
+	font-weight: lighter;
 	text-align: center;
 }
 #main
