@@ -1,6 +1,6 @@
 html, body {
 	font-family: 'Josefin Sans', sans-serif;
-	font-size: 24px;
+	font-size: 16px;
 	height: 100%;
 	width: 100%;
 	background-image: url("../unit1_projects/images/awesome.jpg");
@@ -30,7 +30,7 @@ nav
 	margin: 0 5%;
 	display: inline-block;
 }
-#sidebar
+#left_sidebar
 {
 	float: left;
 	height: calc(100% - 1px - 1em); /* Defines the height in percent of the containing block	 */
@@ -44,16 +44,36 @@ nav
 	font-weight: lighter;
 	text-align: center;
 }
+#left_sidebar article
+{
+
+}
 #main
 {
-	height: 69%;
-	width: 37.143%;
-	margin: 0 5%;
-	border: 1px;
-	border-color: #00FF00;
+	float: left;
+	height: calc(100% - 0.5em - 1px);
+	width: calc(37.143%/0.9 - 0.5em - 1px);
+	margin: 0 calc(5%/0.9);
+	padding: 0.5em;
+	border: 1px dotted #00FF00;
+	border-radius: 10px;
+	font-size: 16px;
 	color: #00FF00;
 	font-weight: normal;
 	text-align: center;
+}
+#main article
+{
+
+}
+#c_right_sidebar
+{
+	float: left;
+	height: 100%;
+	width: calc(23%/0.9);
+	margin: 0;
+	padding: 0;
+	border: 0;
 }
 .c_links
 {
