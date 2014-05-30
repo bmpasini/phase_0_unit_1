@@ -90,9 +90,9 @@ nav
 #link1
 {
 	float: left;
-	height: calc(7.5%/0.26/0.69 - 2*0.5em - 2*1px);
+	height: calc(7.5%/0.26 - 2*0.5em - 2*1px);
 	width: calc(10%/.23 - 2*0.5em - 2*1px);
-	margin: 0 calc(3%/.26/.69) 0 0;
+	margin: 0 calc(3%/.23) 0 0;
 	padding: 0.5em;
 	border: 1px dotted #00FF00;
 	border-radius: 5px;
@@ -107,7 +107,7 @@ nav
 #link2
 {
 	float: left;
-	height: calc(7.5%/0.26/0.69 - 2*0.5em - 2*1px);
+	height: calc(7.5%/0.26 - 2*0.5em - 2*1px);
 	width: calc(10%/.23 - 2*0.5em - 2*1px);
 	margin: 0;
 	padding: 0.5em;
@@ -124,9 +124,9 @@ nav
 #link3
 {
 	float: left;
-	height: calc(7.5%/0.26/0.69 - 2*0.5em - 2*1px);
+	height: calc(7.5%/0.26 - 2*0.5em - 2*1px);
 	width: calc(10%/.23 - 2*0.5em - 2*1px);
-	margin: calc(1.75%/.26/.69) calc(3%/.26/.69) calc(1.75%/.26/.69) 0;
+	margin: calc(1.75%/.26) calc(3%/.23) calc(1.75%/.26) 0;
 	padding: 0.5em;
 	border: 1px dotted #00FF00;
 	border-radius: 5px;
@@ -141,9 +141,9 @@ nav
 #link4
 {
 	float: left;
-	height: calc(7.5%/0.26/0.69 - 2*0.5em - 2*1px);
+	height: calc(7.5%/0.26 - 2*0.5em - 2*1px);
 	width: calc(10%/.23 - 2*0.5em - 2*1px);
-	margin: calc(1.75%/.26/.69) 0;
+	margin: calc(1.75%/.26) 0;
 	padding: 0.5em;
 	border: 1px dotted #00FF00;
 	border-radius: 5px;
@@ -158,9 +158,9 @@ nav
 #link5
 {
 	float: left;
-	height: calc(7.5%/0.26/0.69 - 2*0.5em - 2*1px);
-	width: calc(10%/.23 - 2*0.5em - 2*1px);
-	margin: 0 calc(3%/.26/.69) 0 0;
+	height: calc(7.5%/0.26 - 2*0.5em - 2*1px);
+	width: calc(10%/0.23 - 2*0.5em - 2*1px);
+	margin: 0 calc(3%/0.23) 0 0;
 	padding: 0.5em;
 	border: 1px dotted #00FF00;
 	border-radius: 5px;
@@ -175,7 +175,7 @@ nav
 #link6
 {
 	float: left;
-	height: calc(7.5%/0.26/0.69 - 2*0.5em - 2*1px);
+	height: calc(7.5%/0.26 - 2*0.5em - 2*1px);
 	width: calc(10%/.23 - 2*0.5em - 2*1px);
 	margin: 0;
 	padding: 0.5em;
