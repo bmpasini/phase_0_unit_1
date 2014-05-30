@@ -2,7 +2,7 @@ body {
 	font-family: 'Josefin Sans', sans-serif;
 	font-size: 24x;
 	width: 100%;
-	background-image: url("unit1_projects/images/awesome.jpg");
+	background-image: url("../unit1_projects/images/awesome.jpg");
 	background-size: 100%;
 	background-attachment: fixed;
 	overflow: auto;
