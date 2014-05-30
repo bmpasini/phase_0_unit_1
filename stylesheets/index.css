@@ -197,22 +197,23 @@ nav
 	margin: calc(337/1264*3%/0.69) 0 calc(337/1264*4%/0.69) 0;
 	border: 0;
 	padding: 0;
-	opacity: 0.75;
+	opacity: 0.95;
 	z-index: 3;
 }
 .notes
 {
-	height: 12%;
-	width: 23%;
+	float: left;
+	height: calc(12%/.69 - 2*1em - 2*1px);
+	width: 100%;
 	margin: 0;
 	border: 1px;
-	padding: 1em 1em;
+	padding: 1em;
+	z-index: 3;
 	background-color: gray;
-	opacity: 0.5;
+	opacity: 0.75;
 	color: black;
 	font-weight: italic;
 	text-align: center;
-	z-index: 2;
 }
 footer
 {
