@@ -222,13 +222,13 @@ nav
 footer
 {
 	height: 10%;
-	width: 0%;
+	width: 100%;
 	margin: 0;
 	border: 0;
 	padding: 0;
 	color: #00FF00;
 	font-size: smaller;
-	font-weight: lighter;
+	font-weight: bolder;
 	display: flex; /* Displays an element as an block-level flex container. New in CSS3	*/
 	justify-content: center; /* align horizontal */
 	align-items: center; /* align vertical */
