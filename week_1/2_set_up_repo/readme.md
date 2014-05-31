@@ -34,7 +34,7 @@ For [Mac](http://mac.github.com/) and [Windows](http://windows.github.com/) user
 If you are working on Linux and/or want to challenge yourself further, skip to the next section.
 
 1. Open the GitHub App
-2. On the right side bar, click on your github [USERNAME]
+2. On the left side bar, click on your github [USERNAME]
 3. In the search bar, start searching for "github".  Your "[USERNAME].github.io" repository should come up in the list.
 4. Click on the "Clone to this computer" button.
 
