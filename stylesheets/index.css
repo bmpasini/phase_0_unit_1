@@ -47,9 +47,9 @@ nav
 	font-weight: lighter;
 	text-align: center;
 }
-#left_sidebar article
+#left_sidebar li
 {
-
+	float: left;
 }
 #main
 {
@@ -217,7 +217,7 @@ nav
 }
 .notes li
 {
-
+	float: left;
 }
 footer
 {
