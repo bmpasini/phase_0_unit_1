@@ -1,0 +1,23 @@
+header {
+  color: gray;
+  background-color: black;
+  font-family: 'Arial';
+}
+body {
+  color: white;
+  background-color: black;
+  font-family: 'Helvetica';
+}
+p em {
+  color:green;
+  font-family: 'sans-serif';
+}
+.colorful {
+  color:fuchsia;
+  letter-spacing: 1px;
+}
+#name {
+  font-family: Arial;
+  font-size: 14px;
+  font-weight: bold;
+}
