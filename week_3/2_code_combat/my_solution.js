@@ -276,8 +276,8 @@ this.attackXY(60, 45);
 
 // In this session of week 3 I was able to practice Pseudocoding. It was useful for me to learn that is easier to think
 // first about what you want your code to do, without having to be concerned with the syntax of the language.
-// After pseudocoding, I had to transform it into a functioning piece of code, and at the times that I did a good
-// pseudocode, I didn't have to be concerned with what the code must do, I just have to transform the code into pseudocode.
-// One thing in this session that was really boring was having to do all these basic things multiple times.
-//I don't think that this has helped me learning any Javascript. It was only good to practice pseudocoding and transforming
+// After pseudocoding, I had to transform it into a functioning piece of code, and when I managed to do a good
+// pseudocode, I didn't have to be concerned with what the code should be doing, I just had to transform the pseudocode
+// into code. One thing in this session that was really boring was having to do all these basic things multiple times.
+// I don't think that this has helped me learning any Javascript. It was only good to practice pseudocoding and transforming
 // it into code.
