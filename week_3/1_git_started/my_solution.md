@@ -70,7 +70,10 @@ It shows the current status of your repository. It shows what has been changed f
 
 ## Release 5: Errors you encountered
 1. Error
+	* Fortunately I didn't find any errors
 2. Solution
+	* Fortunately I didn't find any errors
 3. Cause (explain the error)
+	* Fortunately I didn't find any errors
 
 ## Release 6: Reflection
