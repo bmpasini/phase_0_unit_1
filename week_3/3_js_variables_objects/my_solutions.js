@@ -11,10 +11,10 @@ var members = ["John",1,1,"Mary"];
 // __________________________________________
 // Reflection: Use the reflection guidelines to write a reflection here. 
 // 
-// This challenge was pretty easy and straightforward. I guess the most difficult and annoying part may be creating the TDD. However,
-// after it is created the code is failproof. This seems like a good technique to prevent bugs in a complicated piece of code. I liked
-// to be introduced to this new technique and I will surely use it when I feel that what I need to create is confusing or too complicated.
-// 
+// This challenge was pretty easy and straightforward. I guess the most difficult and annoying part may be creating the TDD.
+// However, after it is created the code is failproof. This seems like a good technique to prevent bugs in a complicated
+// piece of code. I liked to be introduced to this new technique and I will surely use it when I feel that what I need to
+// create is confusing or too complicated.
 // 
 
 
