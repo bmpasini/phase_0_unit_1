@@ -279,5 +279,9 @@ this.attackXY(60, 45);
 // After pseudocoding, I had to transform it into a functioning piece of code, and when I managed to do a good
 // pseudocode, I didn't have to be concerned with what the code should be doing, I just had to transform the pseudocode
 // into code. One thing in this session that was really boring was having to do all these basic things multiple times.
+<<<<<<< HEAD
 // I don't think that this has helped me learning any Javascript. It was only good to practice pseudocoding and transforming
+=======
+//I don't think that this has helped me learning any Javascript. It was only good to practice pseudocoding and transforming
+>>>>>>> FETCH_HEAD
 // it into code.
