@@ -19,41 +19,41 @@ var terah = {
 
 // Define a variable adam and use object literal notation to assign this variable the value of a JavaScript Object object with no properties.
 var adam = {};
-
 // Give adam a name property with the value "Adam".
-
-
+adam.name = "Adam";
 // Add a spouse property to terah and assign it the value of adam.
-
+terah.spouse = adam; 
 // Change the value of the terah weight property to 125.
-
+terah.weight = 125;
 // Remove the eyeColor property from terah.
-
+delete terah.eyeColor;
 // Add a spouse property to adam and assign it the value of terah.
-
-// Add a children property to terah and and use object literal notation to assign this variable the value of a JavaScript Object object with no properties
-
+adam.spouse = terah;
+// Add a children property to terah and use object literal notation to assign this variable the value of a JavaScript Object object with no properties
+terah.children = {};
 // Add a carson property to the value of the terah children property and assign it the value of an object with the property name with a value of "Carson".
-
+terah.children.carson = {};
+terah.children.carson.name = "Carson";
 // Add a carter property to the value of the terah children property and assign it the value of an object with the property name with a value of "Carter".
-
+terah.children.carter = {};
+terah.children.carter.name = "Carter";
 // Add a colton property to the value of the terah children property and assign it the value of an object with the property name with a value of "Colton".
-
+terah.children.colton = {};
+terah.children.colton.name = "Colton";
 // Add a children property to adam and assign it the value of terah children.
-
-
-
+adam.children = terah.children;
 
 
 
 // __________________________________________
 // Reflection: Use the reflection guidelines
 // 
-// 
-// 
-// 
-// 
-// 
+// This challenge was really helpful to make me solidify the concepts of JavaScript Objects. Now it's more clear to me how to create
+// a new object and how to add new properties to it. So, now I can understand the JavaScript syntax basics a lot better than before.
+// Also, this challenge wasn't painful at all. The pseudocode provided helped a lot, although I think that I could have made without
+// it. However, without it would be even easier. So, maybem that was the point. Besides, that in this way we can also practice how to
+// transform a pseudocode into a code.
+//
 
 
 // __________________________________________
