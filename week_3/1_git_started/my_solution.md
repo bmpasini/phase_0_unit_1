@@ -56,8 +56,16 @@ It shows the current status of your repository. It shows what has been changed f
 ## Release 4: Git Workflow
 
 - Push files to a remote repository
+
+--> git push
+
 - Fetch changes
+
+--> git fetch
+
 - Commit locally
+
+--> git commit -m "Add Update Message"
 
 ## Release 5: Errors you encountered
 1. Error
