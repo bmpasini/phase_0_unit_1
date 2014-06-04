@@ -17,7 +17,29 @@ var terah = {
 // __________________________________________
 // Write your code below.
 
+// Define a variable adam and use object literal notation to assign this variable the value of a JavaScript Object object with no properties.
+var adam = {};
 
+// Give adam a name property with the value "Adam".
+
+
+// Add a spouse property to terah and assign it the value of adam.
+
+// Change the value of the terah weight property to 125.
+
+// Remove the eyeColor property from terah.
+
+// Add a spouse property to adam and assign it the value of terah.
+
+// Add a children property to terah and and use object literal notation to assign this variable the value of a JavaScript Object object with no properties
+
+// Add a carson property to the value of the terah children property and assign it the value of an object with the property name with a value of "Carson".
+
+// Add a carter property to the value of the terah children property and assign it the value of an object with the property name with a value of "Carter".
+
+// Add a colton property to the value of the terah children property and assign it the value of an object with the property name with a value of "Colton".
+
+// Add a children property to adam and assign it the value of terah children.
 
 
 
