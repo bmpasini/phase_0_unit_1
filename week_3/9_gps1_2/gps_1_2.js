@@ -82,7 +82,7 @@ var willSmith = {
   age: 45,
   quote: "The first step is you have to say that you can.",
   show_quote: function() {
-    return console.log("Quote: "+willSmith.quote+" \n");
+    return console.log("Quote: "+this.quote+" \n");
   }
 };
 
